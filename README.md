@@ -1,5 +1,6 @@
 Sosyal Bilimciler için Python
-M. Fuat Kına
+
+
 Bu ders, sosyal bilimlerde veri analizi yapabilmek için gerekli temel programlama ve hesaplama becerilerini kazandırmayı hedeflemektedir. Katılımcılar, Python programlamaya girişle başlayarak veri tipleri, koşullu ifadeler, döngüler ve fonksiyonlar gibi temel yapı taşlarını öğrenecek; ardından Numpy ve Pandas kütüphaneleriyle veri işleme ve analiz tekniklerini uygulamalı olarak geliştireceklerdir.
 
 Ders Planı
